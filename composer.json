@@ -1,22 +1,15 @@
 {
-    "name": "gdinko/speedy",
-    "description": "Laravel Speedy API Wrapper",
+    "name": "kristiyankr-dev/speedy",
+    "description": "Laravel 12 Speedy API Wrapper",
     "keywords": [
-        "gdinko",
         "speedy",
         "speedy laravel",
         "laravel"
     ],
-    "homepage": "https://github.com/gdinko/speedy",
+    "homepage": "https://github.com/kristiyankr-dev/speedy",
     "license": "MIT",
     "type": "library",
-    "authors": [
-        {
-            "name": "Dinko Georgiev",
-            "email": "dinko359@gmail.com",
-            "role": "Developer"
-        }
-    ],
+    "authors": [],
     "require": {
         "php": "^7.4|^8.0|^8.1|^8.2|^8.3",
         "guzzlehttp/guzzle": "^7.4",
