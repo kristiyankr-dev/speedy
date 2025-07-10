@@ -10,7 +10,7 @@
 You can install the package via composer:
 
 ```bash
-composer require gdinko/speedy
+composer require kristiyankr-dev/speedy
 ```
 
 If you plan to use database for storing nomenclatures:
